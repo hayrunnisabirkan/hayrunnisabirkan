@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
@@ -65,10 +65,10 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hayrunnisabirkan&show_icons=true&title_color=00f2fe&text_color=94a3b8&icon_color=4facfe&bg_color=0b132b&border_color=1c2541&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hayrunnisabirkan&layout=compact&title_color=00f2fe&text_color=94a3b8&bg_color=0b132b&border_color=1c2541&hide_border=false&custom_title=My%20Programming%20Languages" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hayrunnisabirkan&show_icons=true&title_color=00f2fe&text_color=94a3b8&icon_color=4facfe&bg_color=0b132b&border_color=1c2541&hide_border=false" width="49.5%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hayrunnisabirkan&layout=compact&title_color=00f2fe&text_color=94a3b8&bg_color=0b132b&border_color=1c2541&hide_border=false&custom_title=My%20Programming%20Languages" width="49.5%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hayrunnisabirkan&theme=dark&background=0b132b&border=1c2541&stroke=00f2fe&ring=00f2fe&fire=00f2fe&currStreakNum=00f2fe&sideNums=94a3b8&currStreakLabel=00f2fe" width="96%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hayrunnisabirkan&theme=dark&background=0b132b&border=1c2541&stroke=00f2fe&ring=00f2fe&fire=00f2fe&currStreakNum=00f2fe&sideNums=94a3b8&currStreakLabel=00f2fe" width="75%" />
 </p>
