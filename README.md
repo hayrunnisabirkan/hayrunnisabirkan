@@ -66,7 +66,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hayrunnisabirkan&show_icons=true&include_all_commits=true&title_color=00f2fe&text_color=94a3b8&icon_color=4facfe&bg_color=0b132b&border_color=1c2541&hide_border=false" width="49.5%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hayrunnisabirkan&layout=compact&fork=true&title_color=00f2fe&text_color=94a3b8&bg_color=0b132b&border_color=1c2541&hide_border=false&custom_title=My%20Programming%20Languages" width="49.5%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hayrunnisabirkan&layout=compact&fork=true&include_forks=true&cache_bust=1&title_color=00f2fe&text_color=94a3b8&bg_color=0b132b&border_color=1c2541&hide_border=false&custom_title=My%20Programming%20Languages" width="49.5%" />
 </p>
 
 <p align="center">
